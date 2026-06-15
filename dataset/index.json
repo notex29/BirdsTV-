@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nilesat 201/301 & Eutelsat 7W",
+    "file": "Nilesat_201_301_and_Eutelsat_7W.json",
+    "count": 1239
+  },
+  {
+    "name": "Hotbird 13F/13G",
+    "file": "Hotbird_13F_13G.json",
+    "count": 1223
+  },
+  {
+    "name": "Badr 4/5/6/7/8",
+    "file": "Badr_4_5_6_7_8.json",
+    "count": 1121
+  },
+  {
+    "name": "Astra 1KR/1M/1N/1P",
+    "file": "Astra_1KR_1M_1N_1P.json",
+    "count": 785
+  }
+]
